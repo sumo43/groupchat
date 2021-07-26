@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134314829638",
+    "project_id": "blueco-778bd",
+    "storage_bucket": "blueco-778bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134314829638:android:df6154c4e063e310aea747",
+        "android_client_info": {
+          "package_name": "com.example.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134314829638-bgnmudt80p81nln058eu1v3l0n386d2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUGEoK3cjXL6CY4CLe5N5Kf7OWnZFRRJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134314829638-bgnmudt80p81nln058eu1v3l0n386d2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
